@@ -3,12 +3,12 @@ Animal Image Classification project could use deep learning techniques to train 
 useful for tasks like wildlife conservation or automated species identification.
 
 1
-![screenshot](Animal-Image-Classification-main/Animal-Classifier/Screenshot/Screenshot_14-3-2024_12615_localhost.jpeg)
+![screenshot](Animal-Image-classification/Animal-Classifier/Screenshot/Screenshot_14-3-2024_12615_localhost.jpeg)
 2
-![screenshot](Animal-Image-Classification-main/Animal-Classifier/Screenshot/Screenshot_14-3-2024_12219_localhost.jpeg)
+![screenshot](Animal-Image-classification/Animal-Classifier/Screenshot/Screenshot_14-3-2024_12219_localhost.jpeg)
 3
-![screenshot](Animal-Image-Classification-main/Animal-Classifier/Screenshot/Screenshot_14-3-2024_121152_localhost.jpeg)
+![screenshot](Animal-Image-classification/Animal-Classifier/Screenshot/Screenshot_14-3-2024_121152_localhost.jpeg)
 4
-![screenshot](Animal-Image-Classification-main/Animal-Classifier/Screenshot/Screenshot_14-3-2024_121010_localhost.jpeg)
+![screenshot](Animal-Image-classification/Animal-Classifier/Screenshot/Screenshot_14-3-2024_121010_localhost.jpeg)
 
 
